@@ -42,7 +42,8 @@ profiles:
     url: https://github.com/Zhimin-C
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zhimin-chen-a310361b5/
-
+  - icon: brands/cv
+    url:  uploads/my_resume.pdf
 interests:
   - Self/semi-supervised learning
   - Multi-modality learning
