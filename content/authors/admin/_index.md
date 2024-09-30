@@ -1,111 +1,87 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Zhimin Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhimin
+last_name: Chen
 
-# Status emoji
-status:
-  icon: ☕️
+
+
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Clemson University
+    url: https://www.clemson.edu/
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Clemson University
+    url: https://www.clemson.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, and foundational models.
+# Interests to show in About widget
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:zhiminc@clemson.edu
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=OIYNwLkAAAAJ&hl
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Zhimin-C
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/zhimin-chen-a310361b5/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Self/semi-supervised learning
+  - Multi-modality learning
+  - Foundation models
+  - Video generation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD in Computer Vision
+    institution: Clemson University
+    date_start: 2020-08-01
+    date_end: 2025-01-01
+  - area: MS in Electrical and Computer Engineering
+    institution: The Ohio State University
+    date_start: 2018-08-01
+    date_end: 2020-05-01
+  - area: BSc in Automation
+    institution: Northeastern University, China
+    date_start: 2014-08-01
+    date_end: 2018-05-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Applied Scientist Intern
+    company_name: Amazon
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-05-13
+    date_end: 2024-10-04
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Leveraging foundation models for pre-training in image quality assessment tasks.
+  - position: Research Intern
+    company_name: Honda Research Institute
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2024-01-06
+    date_end: 2024-05-01
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Working on 3D occupancy forecasting using generative cellular automata
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +159,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a final-year Ph.D. student at Clemson University. I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, and foundational models.
+
+I am open to full-time positions or research internships starting in Fall 2024 or in 2025.
