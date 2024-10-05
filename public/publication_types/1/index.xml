@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Hugo Academic CV Theme</title>
-    <link>http://localhost:36567/publication_types/1/</link>
-      <atom:link href="http://localhost:36567/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Zhimin Chen</title>
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36567/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>1</title>
-      <link>http://localhost:36567/publication_types/1/</link>
+      <link>http://localhost:1313/publication_types/1/</link>
     </image>
     
     <item>
       <title>SAM-Guided Masked Token Prediction for 3D Scene Understanding</title>
-      <link>http://localhost:36567/publication/conference-paper_3/index_4/</link>
+      <link>http://localhost:1313/publication/conference-paper_3/index_4/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36567/publication/conference-paper_3/index_4/</guid>
+      <guid>http://localhost:1313/publication/conference-paper_3/index_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder</title>
-      <link>http://localhost:36567/publication/conference-paper_2/index_3/</link>
+      <link>http://localhost:1313/publication/conference-paper_2/index_3/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36567/publication/conference-paper_2/index_3/</guid>
+      <guid>http://localhost:1313/publication/conference-paper_2/index_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models</title>
-      <link>http://localhost:36567/publication/conference-paper_4/</link>
+      <link>http://localhost:1313/publication/conference-paper_4/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36567/publication/conference-paper_4/</guid>
+      <guid>http://localhost:1313/publication/conference-paper_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Class-Level Confidence Based 3D Semi-Supervised Learning</title>
-      <link>http://localhost:36567/publication/conference-paper_1/index_2/</link>
+      <link>http://localhost:1313/publication/conference-paper_1/index_2/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36567/publication/conference-paper_1/index_2/</guid>
+      <guid>http://localhost:1313/publication/conference-paper_1/index_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal Semi-Supervised Learning for 3D Objects</title>
-      <link>http://localhost:36567/publication/conference-paper/index_1/</link>
+      <link>http://localhost:1313/publication/conference-paper/index_1/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36567/publication/conference-paper/index_1/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/index_1/</guid>
       <description></description>
     </item>
     
