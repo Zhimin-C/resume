@@ -22,7 +22,7 @@ sections:
         color: blue
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: Simple Shiny.svg
           filters:
             brightness: 1.0
           size: cover
