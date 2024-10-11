@@ -153,7 +153,7 @@
   {{ $sharing_image := resources.GetMatch (path.Join "media" "sharing.*") }}
   {{ $featured_image := (.Resources.ByType "image").GetMatch "*featured*" }}
   {{ $avatar_image := (.Resources.ByType "image").GetMatch "avatar*" }}
-  {{ $has_logo := fileExists "assets/media/my_logo.png" | or (fileExists "assets/media/my_logo.svg") }}
+  {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
   {{ $og_image := "" }}
   {{ $twitter_card := "summary_large_image" }}
   {{ if (and (eq .Kind "term") $avatar_image) }}
