@@ -162,4 +162,3 @@ awards:
 
 I am a final-year Ph.D. student at Clemson University. I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, foundational models, and video generation.
 
-I am actively seeking full-time positions or research internship opportunities beginning in 2025.
