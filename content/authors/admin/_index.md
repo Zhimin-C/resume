@@ -160,5 +160,5 @@ awards:
 
 ## About Me
 
-I am a final-year Ph.D. student at Clemson University. I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, foundational models, and video generation.
+I am an Applied Scientist at Amazon Prime Video. I am primarily focused on studying computer vision and deep learning, with a particular emphasis on image quality assessment, self-supervised learning, semi-supervised learning, multi-modality learning, foundational models, video understanding, and video generation.
 
