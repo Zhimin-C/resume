@@ -65,6 +65,15 @@ education:
     date_end: 2018-05-01
 
 work:
+  - position: Applied Scientist
+    company_name: Amazon Prime Video
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-02-10
+    date_end: Present
+    summary: |2-
+      Responsibilities include:
+      - Video content understanding.
   - position: Applied Scientist Intern
     company_name: Amazon
     company_url: ''
