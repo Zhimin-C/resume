@@ -70,7 +70,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-02-10
-    date_end: "Present"
+    date_end: ""
     summary: |2-
       Responsibilities include:
       - Video content understanding.
