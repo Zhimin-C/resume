@@ -69,8 +69,8 @@ work:
     company_name: Amazon Prime Video
     company_url: ''
     company_logo: ''
-    date_start: 2024-02-10
-    date_end: Present
+    date_start: 2025-02-10
+    date_end: "Present"
     summary: |2-
       Responsibilities include:
       - Video content understanding.
