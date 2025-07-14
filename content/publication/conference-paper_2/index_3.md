@@ -6,6 +6,8 @@ title: 'Point Cloud Self-supervised Learning via 3D to Multi-view Masked Learner
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Xuewei Chen
+  - Xiao Guo
   - Yingwei Li
   - Longlong Jing
   - Liang Yang
