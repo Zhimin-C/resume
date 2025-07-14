@@ -1,15 +1,19 @@
 ---
-title: 'TransAnimate: Taming Layer Diffusion to Generate RGBA Video'
+title: 'Class-Level Confidence Based 3D Semi-Supervised Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Xuewei Chen
-  - Yiren Song
+  - Longlong Jing
+  - Liang Yang
+  - Yingwei Li
+  - Bing Li
 
-date: '2025-06-01T00:00:00Z'
+
+date: '2022-10-18T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 
@@ -20,11 +24,10 @@ date: '2025-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: In *submission*
+publication: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+publication_short: In *WACV, 2023*
 
-abstract: Text-to-video generative models have made remarkable advancements in recent years. However, generating RGBA videos with alpha channels for transparency and visual effects remains a significant challenge due to the scarcity of suitable datasets and the complexity of adapting existing models for this purpose. To address these limitations, we present TransAnimate, an innovative framework that integrates RGBA image generation techniques with video generation modules, enabling the creation of dynamic and transparent videos. TransAnimate efficiently leverages pretrained text-to-transparent image model weights and combines them with temporal models and controllability plugins trained on RGB videos, adapting them for controllable RGBA video generation tasks. Additionally, we introduce an interactive motion-guided control mechanism, where directional arrows define movement and colors adjust scaling,offering precise and intuitive control for designing game effects. To further alleviate data scarcity, we have developed a pipeline for creating an RGBA video dataset, incorporating high-quality game effect videos, extracted foreground objects, and synthetic transparent videos. Comprehensive experiments demonstrate that TransAnimate generates high-quality RGBA videos, establishing it as a practical and effective tool for applications in gaming and visual
-effects.
+abstract: Current pseudo-labeling strategies in 3D semi-supervised learning (SSL) fail to dynamically incorporate the variance of learning status which is affected by each class's learning difficulty and data imbalance. To address this problem, we practically demonstrate that 3D unlabeled data class-level confidence can represent the learning status. Based on this finding, we present a novel class-level confidence based 3D SSL method. Firstly, a dynamic thresholding strategy is proposed to utilize more unlabeled data, especially for low learning status classes. Then, a re-sampling strategy is designed to avoid biasing toward high learning status classes, which dynamically changes the sampling probability of each class. Unlike the latest state-of-the-art SSL method FlexMatch which also utilizes dynamic threshold, our method can be applied to the inherently imbalanced dataset and thus is more general. To show the effectiveness of our method in 3D SSL tasks, we conduct extensive experiments on 3D SSL classification and detection tasks. Our method significantly outperforms state-of-the-art counterparts for both 3D SSL classification and detection tasks in all datasets.
 
 # Summary. An optional shortened abstract.
 
@@ -37,7 +40,10 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/pdf/2503.17934
+
+url_pdf: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Class-Level_Confidence_Based_3D_Semi-Supervised_Learning_WACV_2023_paper.pdf
+url_code: 'https://github.com/AutoAILab/Confid-SSL'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
