@@ -41,7 +41,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/970cbc9be823f381392db75c0b00e17c-Paper-Conference.pdf
-url_code: ''
+url_code: 'https://github.com/Zhimin-C/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
