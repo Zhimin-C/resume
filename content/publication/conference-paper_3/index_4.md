@@ -6,6 +6,9 @@ title: 'SAM-Guided Masked Token Prediction for 3D Scene Understanding'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Liang Yang
+  - Yingwei Li
+  - Longlong Jing
   - Bing Li
 
 
@@ -37,8 +40,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/970cbc9be823f381392db75c0b00e17c-Paper-Conference.pdf
+url_code: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
