@@ -39,6 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/abs/2311.10887
+url_code: 'https://github.com/Zhimin-C/Multiview-MAE'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
